@@ -60,7 +60,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damdamworld&show_icons=true&theme=dracula&hide_border=true&layout=compact" width="100%"/>
 </div>
 
-    </td>
   </tr>
 </table>
 
@@ -76,7 +75,4 @@
   </a>
   <a href="https://instagram.com/adamlaodee">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
