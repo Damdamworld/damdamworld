@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkwNGd4ZnBpcXVmcTYza3ZqMzZ5Z251M2x4dThmbDAxOHRtYmFodiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/CjmvTCZf2U3p09Cn0h/giphy.gif" width="300" />
 </div>
 <h1 align="center">Hi 👋, I'm Adam Laode</h1>
-<h3 align="center">Currently an IT Student at President University Pekanbaru</h3>
+<h3 align="center">Currently an IT Student at President University Pekanbaru!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damdamworld&label=Profile%20views&color=0e75b6&style=flat" alt="damdamworld" /> </p>
 
